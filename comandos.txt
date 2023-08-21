@@ -1,0 +1,45 @@
+   51  z /home/carlosgm/Documentos/DigitalHouse/Intro_Informatica/Checkpoint-CarlosMarcano
+   52  git remote add origin https://github.com/carlosgmarcano/Checkpoint-CarlosMarcano.git
+   53  cl
+   54  clear
+   55  touch main.js
+   56  touch index.html
+   57  code .
+   58  git add .
+   59  git commit -m 
+   60  git commit -m "commit 01 CarlosMarcano"
+   61  git push
+   62  git push --set-upstream origin main
+   63  git remote add origin https://github.com/carlosgmarcano/Checkpoint-CarlosMarcano.git
+   64  git push -u origin main
+   65  clear
+   66  git branch feature
+   67  git checkout feature
+   68  mkdir Hardware
+   69  mkdir Software
+   70  mkdir SeguridadInformatica
+   71  cd Hardware
+   72  touch resumen.txt
+   73  cd ../Software
+   74  touch resumen.txt
+   75  cd ../SeguridadInformatica
+   76  touch resumen.txt
+   77  git checkout main
+   78  ls
+   79  git checkout feature
+   80  git add .
+   81  git push -u origin feature
+   82  git commit -m "Commit 02 CarlosMarcano"
+   83  git push -u origin feature
+   84  cl
+   85  clear
+   86  git checkout main
+   87  ls
+   88  ls 
+   89  cd ..
+   90  la
+   91  ls
+   92  mv main.js resumenHardware.txt
+   93  mv index.html resumenSoftware.txt
+   94  ls
+   95  touch comandos.txt

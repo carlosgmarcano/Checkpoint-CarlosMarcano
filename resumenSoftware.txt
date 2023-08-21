@@ -1,0 +1,3 @@
+Navegadores Web (Opera, Brave, Firefox)
+Software de Ofimatica (word, Excel)
+Software de Desarrollo (Visual Studio, Android Studio)
